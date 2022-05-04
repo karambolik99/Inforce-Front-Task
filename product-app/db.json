@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "name": "3-Pack Mini Stripe No Show Sock",
+      "size": "42",
+      "count": "2",
+      "imageUrl": "https://media.happysocks.com/catalog/product/m/a/magentoimage_kmkyur1kxc8roymw.png?width=720&format=pjpg&quality=70&auto=webp&bg-color=fafafa",
+      "id": 1
+    },
+    {
+      "name": "3-Pack Mini Stripe No Show Sock",
+      "size": "42",
+      "count": "2",
+      "imageUrl": "https://media.happysocks.com/catalog/product/m/a/magentoimage_kmkyur1kxc8roymw.png?width=720&format=pjpg&quality=70&auto=webp&bg-color=fafafa",
+      "id": 2
+    },
+    {
+      "name": "3-Pack Mini Stripe No Show Sock",
+      "size": "42",
+      "count": "2",
+      "imageUrl": "https://media.happysocks.com/catalog/product/m/a/magentoimage_kmkyur1kxc8roymw.png?width=720&format=pjpg&quality=70&auto=webp&bg-color=fafafa",
+      "id": 3
+    }
+  ]
+}
